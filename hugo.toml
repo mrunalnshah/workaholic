@@ -17,13 +17,11 @@ pygmentsUseClasses = true
   rss = false
   lastmod = true
   userStatusEmoji = "🐼"
-  favicon = "/images/WildeWulf.png"
-  avatar = "/images/prof_pic.png"
-  headerIcon = "/images/WildeWulf.png"
+  avatar = "images/prof_pic.png"
+  favicon = "images/WildeWulf.png"
+  headerIcon = "images/WildeWulf.png"
   location = "Unknown Wilderness"
   enableGitalk = false
-  custom_css = ["css/custom.css"]
-  custom_js = ["js/custom.js"]
 
   [[params.links]]
     title = "Link"
